@@ -1,0 +1,6 @@
+[submodule "sort"]
+	path = sort
+	url = https://github.com/abewley/sort.git
+[submodule "yolov5"]
+	path = yolov5
+	url = https://github.com/ultralytics/yolov5.git
